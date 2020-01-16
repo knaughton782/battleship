@@ -26,21 +26,21 @@ while (isSunk == false){
     
 
         
-        if the guess matches a location
-            add 1 to the number of hits
+//         if the guess matches a location
+//             add 1 to the number of hits
 
-                if the number of hits is 3
-                    set isSunk to true
-                    tell user 'You sunk my battleship!';
-                end if
+//                 if the number of hits is 3
+//                     set isSunk to true
+//                     tell user 'You sunk my battleship!';
+//                 end if
 
-        end if
+//         end if
 
-    end else 
+//     end else 
 
-end while loop
+// end while loop
 
-show user stats
+// show user stats
 
 
 
